@@ -59,7 +59,39 @@
       <sup color="gray">(Курсовая)</sup>
     </td>
     <td colspan="3">
-      2D-игра на C# со своим движком<br/>
+      2D-игра на C# со своим движком про подземелье<br/>
+      <sup color="gray">
+        (Visual Studio, C#, Windows Forms)
+      </sup>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      2019<br/>
+      <sup>декабрь</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nikolai-415/air-fight">Air Fight</a><br/>
+      <sup color="gray">(Саморазвитие)</sup>
+    </td>
+    <td colspan="3">
+      2D-игра на C# со своим движком про самолётики<br/>
+      <sup color="gray">
+        (Visual Studio, C#, Windows Forms)
+      </sup>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      2020<br/>
+      <sup>январь-февраль</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Nikolai-415/erudite">Erudite</a><br/>
+      <sup color="gray">(Саморазвитие)</sup>
+    </td>
+    <td colspan="3">
+      2D-игра на C# со своим движком про слова<br/>
       <sup color="gray">
         (Visual Studio, C#, Windows Forms)
       </sup>
