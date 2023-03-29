@@ -19,29 +19,36 @@
   <tr>
     <td>
       • PHP (чистый);<br/>
-      • PHP Symfony 4, Symfony 5 (+ Шаблонизатор Twig);<br/>
-      • C# (.NET Framework, .NET Core, Windows Forms, Entity Framework, Discord API);<br/>
+      • Docker (+ Docker Compose);<br/>
       • Shell (Bash).<br/>
     </td>
     <td>
       • Git;<br/>
-      • Docker (+ Docker Compose);<br/>
+      • C# (.NET Framework, .NET Core, Windows Forms);<br/>
+      • PHP Symfony 4, Symfony 5 (+ Шаблонизатор Twig);<br/>
+      • Java (чистая);<br/>
+      • Makefile;<br/>
       • CI/CD (GitLab).<br/>
     </td>
     <td>
+      • C# (Entity Framework, Discord API);<br/>
       • PHP Laravel (+ Шаблонизатор Blade);<br/>
       • PHP Yii 2;<br/>
-      • C++.<br/>
+      • Maven;<br/>
+      • Gradle;<br/>
+      • Java (ZK Framework).<br/>
     </td>
     <td>
+      • Java (JPA, Hibernate);<br/>
       • HTML + CSS;<br/>
       • SQL (MySQL, Microsoft SQL Server, PostgreSQL, SQLite);<br/>
-      • Java (Maven, ZK Framework).<br/>
+      • C++.<br/>
     </td>
     <td>
       • ASP .NET Framework MVC;<br/>
       • JavaScript;<br/>
       • Python;<br/>
+      • Java (Spring);<br/>
       • Shell (PowerShell).<br/>
     </td>
   </tr>
