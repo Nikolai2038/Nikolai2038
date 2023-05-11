@@ -7,32 +7,32 @@
 
 <table align="center">
   <tr>
-    <th colspan="5">Мои знания</th>
+    <th colspan="5">My knowledge</th>
   </tr>
   <tr>
-    <th width="20%">Специализируюсь на</th>
-    <th width="20%">Уверенный уровень</th>
-    <th width="20%">Хороший уровень</th>
-    <th width="20%">Базовый уровень</th>
-    <th width="20%">Совсем немного знаю</th>
+    <th width="20%">I specialize in</th>
+    <th width="20%">Confident level</th>
+    <th width="20%">Good level</th>
+    <th width="20%">Basic level</th>
+    <th width="20%">I know quite a bit</th>
   </tr>
   <tr>
     <td>
-      • PHP (чистый);<br/>
+      • PHP;<br/>
       • Docker (+ Docker Compose);<br/>
       • Shell (Bash).<br/>
     </td>
     <td>
       • Git;<br/>
       • C# (.NET Framework, .NET Core, Windows Forms);<br/>
-      • PHP Symfony 4, Symfony 5 (+ Шаблонизатор Twig);<br/>
-      • Java (чистая);<br/>
+      • PHP Symfony 4, Symfony 5 (+ Twig Template Engine);<br/>
+      • Java;<br/>
       • Makefile;<br/>
       • CI/CD (GitLab).<br/>
     </td>
     <td>
       • C# (Entity Framework, Discord API);<br/>
-      • PHP Laravel (+ Шаблонизатор Blade);<br/>
+      • PHP Laravel (+ Blade Template Engine);<br/>
       • PHP Yii 2;<br/>
       • Maven;<br/>
       • Gradle;<br/>
@@ -56,24 +56,24 @@
 
 <table align="center">
   <tr>
-    <th colspan="5">Моё портфолио</th>
+    <th colspan="5">My portfolio</th>
   </tr>
   <tr>
-    <th width="20%" align="center">Дата</th>
-    <th width="20%" align="center">Название</th>
-    <th width="60%" colspan="3">Описание</th>
+    <th width="20%" align="center">Date</th>
+    <th width="20%" align="center">Title</th>
+    <th width="60%" colspan="3">Description</th>
   </tr>
   <tr>
     <td align="center">
       2019<br/>
-      <sup>октябрь-декабрь</sup>
+      <sup>October-December</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/dungeon">Dungeon</a><br/>
-      <sup color="gray">(Курсовая)</sup>
+      <sup color="gray">(Coursework)</sup>
     </td>
     <td colspan="3">
-      2D-игра на C# со своим движком про подземелье<br/>
+      2D game in C# with its own dungeon crawler engine<br/>
       <sup color="gray">
         (Visual Studio, C#, Windows Forms)
       </sup>
@@ -82,14 +82,14 @@
   <tr>
     <td align="center">
       2019<br/>
-      <sup>декабрь</sup>
+      <sup>December</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/air-fight">Air Fight</a><br/>
-      <sup color="gray">(Саморазвитие)</sup>
+      <sup color="gray">(Self-development)</sup>
     </td>
     <td colspan="3">
-      2D-игра на C# со своим движком про самолётики<br/>
+      2D game in C# with its own engine about airplanes<br/>
       <sup color="gray">
         (Visual Studio, C#, Windows Forms)
       </sup>
@@ -98,14 +98,14 @@
   <tr>
     <td align="center">
       2020<br/>
-      <sup>январь-февраль</sup>
+      <sup>January-February</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/erudite">Erudite</a><br/>
-      <sup color="gray">(Саморазвитие)</sup>
+      <sup color="gray">(Self-development)</sup>
     </td>
     <td colspan="3">
-      2D-игра на C# со своим движком про слова<br/>
+      2D game in C# with its own word engine<br/>
       <sup color="gray">
         (Visual Studio, C#, Windows Forms)
       </sup>
@@ -114,14 +114,14 @@
   <tr>
     <td align="center">
       2020<br/>
-      <sup>май-июнь</sup>
+      <sup>May-June</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/nikolai-forum">Nikolai's Forum</a><br/>
-      <sup color="gray">(Курсовая)</sup>
+      <sup color="gray">(Coursework)</sup>
     </td>
     <td colspan="3">
-      Веб-форум на чистом PHP, являющийся шаблоном для заполнения на любую тематику<br/>
+      Web forum in pure PHP, which is a template for filling in any topic<br/>
       <sup color="gray">
         (PHP, MySQL)
       </sup>
@@ -130,14 +130,14 @@
   <tr>
     <td align="center">
       2021<br/>
-      <sup>январь-март</sup>
+      <sup>January-March</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/social-network">Social Network</a><br/>
-      <sup color="gray">(Курсовая)</sup>
+      <sup color="gray">(Coursework)</sup>
     </td>
     <td colspan="3">
-      Проект простой социальной сети на ASP .NET Framework MVC<br/>
+      A simple social network project based on ASP .NET Framework MVC<br/>
       <sup color="gray">
         (Visual Studio, C#, ASP .NET Framework MVC, JavaScript)
       </sup>
@@ -146,14 +146,14 @@
   <tr>
     <td align="center">
       2021<br/>
-      <sup>апрель-май</sup>
+      <sup>April-May</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/practice-system">Practice System</a><br/>
-      <sup color="gray">(Диплом)</sup>
+      <sup color="gray">(Diploma)</sup>
     </td>
     <td colspan="3">
-      АИС "Прохождение производственной практики" на PHP-фреймворке Laravel<br/>
+      AIS "Passing a production internship" on the Laravel PHP framework<br/>
       <sup color="gray">
         (PhpStorm, Docker, Docker-Compose, Nginx, PostgreSQL, PHP, Laravel, JavaScript, AJAX)
       </sup>
@@ -162,14 +162,14 @@
   <tr>
     <td align="center">
       2021<br/>
-      <sup>июль-август</sup>
+      <sup>July-August</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/study-symfony-attempt-3">Study Symfony</a><br/>
-      <sup color="gray">(Тестовое задание)</sup>
+      <sup color="gray">(Test task)</sup>
     </td>
     <td colspan="3">
-      Тестовый проект для изучения PHP-фреймворка Symfony 5<br/>
+      Test project for learning the Symfony 5 PHP framework<br/>
       <sup color="gray">
         (VS Code, Docker, Docker-Compose, Bash, Nginx, PostgreSQL, PHP, Symfony 5)
       </sup>
@@ -178,14 +178,14 @@
   <tr>
     <td align="center">
       2022<br/>
-      <sup>май</sup>
+      <sup>May</sup>
     </td>
     <td align="center">
       <a href="https://github.com/Nikolai-415/study-csharp-attempt-1">Study C#</a><br/>
-      <sup color="gray">(Саморазвитие)</sup>
+      <sup color="gray">(Self-development)</sup>
     </td>
     <td colspan="3">
-      Тестовый проект для изучения C#<br/>
+      Test project for learning C#<br/>
       <sup color="gray">
         (Visual Studio, C#, Windows Forms, .NET Framework, Entity Framework, Metro Framework)
       </sup>
